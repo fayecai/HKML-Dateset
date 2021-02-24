@@ -1,4 +1,4 @@
-,Name,Sex,Age,Education,Career,Demographic score,Media access behavior (channel) ,Media access behavior (content),Media access behavior (time),Media access behavior (efficiency) ,Media analysis behavior( thinking ) ,Media analysis behavior (questioning ),Media analysis behavior ( refusing ),Media analysis behavior (verifying),Media participation intention (like),Media participaton intention (comment) ,Media participaton intention (repost) ,Media participaton intention (mention) ,The whole media literacy score
+,Name,Sex,Age,Education,Career,Demographic score,Media access behavior (channel) ,Media access behavior (content),Media access behavior (self-control),Media access behavior (efficiency) ,Media analysis behavior( thinking ) ,Media analysis behavior (questioning ),Media analysis behavior ( refusing ),Media analysis behavior (verifying),Media participation intention (like),Media participaton intention (comment) ,Media participaton intention (repost) ,Media participaton intention (mention) ,The whole media literacy score
 Case1,Nyla,female,23,master's degree,student,8.8,8.6,8.7,8.9,8.9,8.6,8.7,8.8,8.8,8.3,8.1,8.2,5.7,8.5
 Case2,Wenqiang,male,28,master's degree,product manager,6.8,8.1,7.8,5.6,7.5,7.6,5.8,6.1,4.8,7.3,7.1,4.6,4.5,6.9
 Case3,Xiufang,female,43,junior high school,migrant worker,2.1,5.5,5.3,4.4,3.5,3.7,3.3,6.7,3.4,5.9,3.3,6.4,3.2,5
@@ -32,7 +32,7 @@ Case30,Baoliquan,male,43,docter's degree,associate professor?,7.4,6.7,7.2,7.1,6.
 Case31,Wangran,male,35,docter's degree,lecture,7.7,7.7,7.4,6.5,7.2,7.9,8,7.3,7.6,7.1,6.9,6.5,5.7,7.3
 Case32,Xuminghua,female,41,docter's degree,associate professor?,8.1,7.5,7.1,6.1,7.7,8.4,8.2,7.6,7.5,7.2,6.8,6.5,5.6,7.7
 Case33,Lihuajun,male,38,docter's degree,associate professor?,8.2,7.6,7.4,6.5,7.8,8.1,7.9,7.9,7.2,7.7,7.1,6.6,6,8
-Case34,Αυ½ΰ,male,52,docter's degree,professor,8.5,8.1,7.9,8.2,8,7.7,7.6,8.5,8,7.8,7.9,8.4,8.7,8.4
+Case34,ΓΓµΒ½Γ ,male,52,docter's degree,professor,8.5,8.1,7.9,8.2,8,7.7,7.6,8.5,8,7.8,7.9,8.4,8.7,8.4
 Case35,Wangquan,male,27,master's degree,administrator,7.2,6.9,6.7,7.1,6.6,7.5,6.8,7.9,7.1,4.5,4.2,5.5,5,6.8
 Case36,Zhaotianhong,female,32,master's degree,teacher,6.1,6.2,7.1,6.4,6.3,6.4,6,5.5,5.6,6.2,5.8,5.6,5.1,5.9
 Case37,Guanenyuan,male,45, high school,Insurance staff,4.1,5.1,5.9,4.7,3.5,5.7,6.1,3.7,3.5,4,3.2,3.3,3.5,4.2
